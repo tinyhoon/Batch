@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Workspace/InformixJdbcDriver/ifxjdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Workspace/InformixJdbcDriver/ifxlang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Workspace/InformixJdbcDriver/ifxlsupp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Workspace/InformixJdbcDriver/ifxtools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Workspace/application/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/app/Administrator/product/11.2.0/dbhome_3/jdbc/lib/ojdbc6.jar" sourcepath=""/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
